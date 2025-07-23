@@ -1,0 +1,11 @@
+product_name,eligible_for_ads,category_restrictions,min_order_quantity,max_order_quantity,geographic_restrictions
+Wireless Headphones Pro,true,,1,500,
+Smart Watch Series X,true,,1,300,US;CA;EU
+Gaming Laptop Ultra,true,Age 18+,1,100,
+Bluetooth Speaker Mini,true,,1,1000,
+Fitness Tracker Pro,true,,1,400,
+Tablet Pro Max,true,,1,200,
+Wireless Mouse Elite,true,,1,2000,
+Mechanical Keyboard,true,,1,1500,
+USB-C Hub Premium,true,,1,3000,
+Power Bank Max,true,,1,800,
